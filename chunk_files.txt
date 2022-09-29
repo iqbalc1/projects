@@ -1,0 +1,15 @@
+Audio processing using Pydub and Google speechRecognition API
+
+https://www.geeksforgeeks.org/audio-processing-using-pydub-and-google-speechrecognition-api/
+
+Working with wav files in Python using Pydub
+https://www.geeksforgeeks.org/working-with-wav-files-in-python-using-pydub/
+
+
+Sample code for audio chunks
+https://stackoverflow.com/questions/65857983/how-can-i-split-an-audio-file-into-multiple-audio-wav-files-from-folder
+
+how can i split an Audio file into multiple audio wav files from folder
+
+https://python.tutorialink.com/how-can-i-split-an-audio-file-into-multiple-audio-wav-files-from-folder/
+https://tutorialmeta.com/question/make-chunks-in-audio-files-with-overlap-in-python
